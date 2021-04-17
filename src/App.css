@@ -13,7 +13,10 @@
   justify-content: space-evenly;
 }
 
-.mainMessage {
-  color: #072448;
+.modal {
   text-align: center;
+}
+
+.theme {
+  color: #072448;
 }
