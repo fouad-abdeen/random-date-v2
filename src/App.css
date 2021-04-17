@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.date-picker {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.mainMessage {
+  color: #072448;
+  text-align: center;
+}
