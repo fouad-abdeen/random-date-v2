@@ -2,4 +2,4 @@
 
 I built this version using React TypeScript, Moment.js, Bootstrap, and React-Bootstrap.
 
-Web Page Link: https://fouad-abdeen.github.io/random-date-v2/
+[Web Page Link](https://fouad-abdeen.github.io/random-date-v2/)
